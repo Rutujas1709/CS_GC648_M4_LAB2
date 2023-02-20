@@ -1,11 +1,11 @@
 /*eslint-env browser*/
 
 //Employee Array
-let EmployeesArray = [[90909015, "Thanuja Pavani Satti", 1423, "tps@gmail.com", "Executive"],
-    [99089768, "Satya Uday Sanku", 3183, "sus@gmail.com", "Administrative"],
-    [98709875, "Puneet Patil", 7947, "pp@vectagmail.com", "Sales"],
-    [93456547, "Preeti Kulkarni", 6548, "pk@gmail.com", "Marketing"],
-    [90908989, "Nikitha Raavi", 1205, "nr@vgmail.com", "Quality Assurance"]]
+let EmployeesArray = [[1256891, "Rutuja S", 0000, "rs@gmail.com", "CEO"],
+    [770912814, "Mugdha J", 0101, "mj@gmail.com", "Data Analyst"],
+    [968912124, "Payal K", 2101, "pk@vectagmail.com", "Developer"],
+    [858744234, "Karisma K ", 2356, "kk@gmail.com", "Manager"],
+    [992261766, " Shruti R", 1205, "sr@vgmail.com", "Senior Developer"]]
 
 //Storing Data
 if (localStorage.getItem('employees') !== null) {
